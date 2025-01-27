@@ -1,2 +1,2 @@
 # KalevalaKino
-Tässä Kalevala Kino-projekti 2025 ennenn kuin siirrettiin GitHub-Pageen
+Tässä Kalevala Kino-projekti 2025 ennen kuin siirrettiin GitHub-Pageen. Jatketaan tällä versiolla dynaamisten sivujen tekoa.
